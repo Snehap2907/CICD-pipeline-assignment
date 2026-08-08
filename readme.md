@@ -61,6 +61,14 @@ CICD/
     └── workflows/
         └── cicd.yml
 ```
+<img width="935" height="233" alt="image" src="https://github.com/user-attachments/assets/d02b8d17-9d26-4702-bbd3-2727c79f27b5" />
+
+<img width="761" height="305" alt="image" src="https://github.com/user-attachments/assets/1cf2b0d1-979f-4505-a9e2-1916703bd3ca" />
+
+<img width="745" height="437" alt="image" src="https://github.com/user-attachments/assets/3fac12c7-9d25-4240-baff-dcc77acd528b" />
+
+<img width="747" height="377" alt="image" src="https://github.com/user-attachments/assets/6d78bd58-a589-4b2b-8dc6-ef446789f232" />
+
 
 ---
 
