@@ -1,10 +1,3 @@
-# 📌 CICDFlask – Student Registration System CI/CD Pipeline
-
-This project implements a **CI/CD pipeline** for a Flask + MongoDB application deployed on **AWS EC2** using **Docker** and **GitHub Actions**.  
-It follows the assignment guide requirements step by step.
-
----
-
 ## 📂 Project Path & Structure
 
 E:\Download\CICDFlask/
